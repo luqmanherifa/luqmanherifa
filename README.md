@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for new opportunities.
-- 🌱 I’m currently learning front-end web development and user interface design.
+- 🌱 I’m currently learning front-end web and user interface.
 - 📫 How to reach me: luqmanherifa@gmail.com
 
 <!--
