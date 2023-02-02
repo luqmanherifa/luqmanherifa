@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning front-end web and user interface.
 - 📫 How to reach me: luqmanherifa@gmail.com
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanherifa&layout=compact&langs_count=10)](https://github.com/luqmanherifa)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanherifa&layout=compact&langs_count=10&hide=blade,shell)](https://github.com/luqmanherifa)
 
 <!--
 <br />
