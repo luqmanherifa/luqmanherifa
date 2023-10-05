@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning web development and interface design.
 - 📫 How to reach me: luqmanherifa@gmail.com
 
-&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanherifa&layout=compact&langs_count=10&hide=)](https://github.com/luqmanherifa)
+&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanherifa&layout=compact&langs_count=10&hide=scss,c%2B%2B)](https://github.com/luqmanherifa)
