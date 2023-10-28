@@ -1,4 +1,4 @@
-### Halo! 😃
+### Halo! 👋😀
 
 - 🔭 I’m currently looking for new opportunities.
 - 🌱 I’m currently learning web development and interface design.
