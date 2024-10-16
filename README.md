@@ -1,3 +1,3 @@
 ### Halo! 👋😀
 
-I am learning software and design.
+- I am learning software and design.
