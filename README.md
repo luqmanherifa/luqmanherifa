@@ -1,1 +1,1 @@
-A curious software engineer who loves building things for the web. Always exploring code, design, coffee, and new ideas.
+An engineer of thought between code and wonder.
